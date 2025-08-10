@@ -1,4 +1,4 @@
-# Python Web Scraping with BeautifulSoup & Pandas: Wikipedia Company Data
+# Python Web Scraping
 
 ## 📌 Project Overview
 This project demonstrates how to scrape tabular data from a live web page using **BeautifulSoup** and process it with **pandas**.  
